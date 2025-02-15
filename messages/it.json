@@ -1,0 +1,134 @@
+{
+    "meta-title": "Da PNG a PDF - Converti PNG in PDF Online Gratuitamente",
+    "meta-description": "Converti PNG in PDF online gratuitamente. Trasforma immagini PNG singole o multiple in documenti PDF di alta qualità istantaneamente. 100% sicuro e veloce. Nessuna registrazione richiesta.",
+    "h1": "Convertitore da PNG a PDF",
+    "description": "Converti PNG in PDF online gratuitamente. Trasforma le tue immagini PNG in documenti PDF professionali con il nostro convertitore sicuro e veloce. Nessuna registrazione richiesta.",
+    "cta": {
+        "title": "Converti PNG in PDF istantaneamente",
+        "description": "Modo veloce, gratuito e sicuro per trasformare le tue immagini PNG in documenti PDF professionali. Perfetto per creare documentazione, report e presentazioni.",
+        "button": "Inizia la Conversione",
+        "quote": "La tua privacy è importante - non memorizziamo mai i tuoi file."
+    },
+    "faq": {
+        "title": "Domande Frequenti sul Convertitore da PNG a PDF",
+        "description": "Ecco alcune delle domande più comuni sul nostro servizio di conversione da PNG a PDF.",
+        "questions": {
+            "question1": {
+                "title": "Perché convertire PNG in PDF?",
+                "text": "Convertire PNG in PDF offre diversi vantaggi. I PDF sono universalmente compatibili, mantengono la qualità dell'immagine ed sono perfetti per documentazione professionale. La conversione da PNG a PDF è particolarmente utile quando è necessario combinare più immagini in un unico documento, creare materiali stampabili o condividere immagini in un formato ampiamente accettato per scopi commerciali e accademici."
+            },
+            "question2": {
+                "title": "Come funziona il convertitore da PNG a PDF?",
+                "text": "Il nostro convertitore da PNG a PDF utilizza algoritmi avanzati per trasformare le tue immagini PNG in documenti PDF di alta qualità. Basta caricare i file PNG e il convertitore li elaborerà immediatamente, mantenendo la qualità originale dell'immagine e ottimizzando l'output per il formato PDF. Puoi convertire singole immagini o combinare più PNG in un unico documento PDF."
+            },
+            "question3": {
+                "title": "Questo convertitore da PNG a PDF è completamente gratuito?",
+                "text": "Sì, il nostro convertitore da PNG a PDF è al 100% gratuito senza costi nascosti. Converti immagini PNG illimitate in formato PDF senza alcuna registrazione. Non imponiamo limiti giornalieri o richiediamo abbonamenti premium per conversioni di base, rendendolo perfetto per uso personale e professionale."
+            },
+            "question4": {
+                "title": "Qual è la dimensione massima del file per la conversione da PNG a PDF?",
+                "text": "Mentre non ci sono limiti per le dimensioni dei singoli file, la dimensione totale del batch di caricamento è limitata a 100 MB. Questo ti permette di convertire più file PNG in formato PDF contemporaneamente, garantendo prestazioni e qualità ottimali nel documento finale."
+            },
+            "question5": {
+                "title": "È sicuro utilizzare il vostro convertitore da PNG a PDF?",
+                "text": "Assolutamente! Il nostro convertitore da PNG a PDF dà priorità alla tua privacy e sicurezza. Utilizziamo connessioni HTTPS sicure e non memorizziamo alcun file caricato. Una volta scaricati i file PDF convertiti e aver lasciato il sito web, tutti i tuoi dati vengono automaticamente eliminati dai nostri server, garantendo una riservatezza completa."
+            },
+            "question6": {
+                "title": "Posso combinare più file PNG in un unico PDF?",
+                "text": "Sì, il nostro convertitore supporta l'elaborazione batch, permettendoti di combinare più file PNG in un unico documento PDF. Puoi anche modificare l'ordine delle pagine, l'orientamento e il layout prima della conversione. Questa funzione è particolarmente utile per creare documenti multi-pagina, presentazioni o portfolio."
+            },
+            "question7": {
+                "title": "Quali dispositivi e browser funzionano con il vostro convertitore da PNG a PDF?",
+                "text": "Il nostro convertitore da PNG a PDF funziona perfettamente su tutti i dispositivi e browser moderni. Che tu stia usando iOS, Android, Windows o Mac, il nostro strumento è compatibile con Chrome, Safari, Firefox e Edge. Nessuna installazione di software richiesta - basta visitare il nostro sito web e iniziare a convertire le tue immagini PNG in formato PDF."
+            },
+            "question8": {
+                "title": "Qual è la qualità del PDF rispetto al PNG originale?",
+                "text": "Il nostro convertitore da PNG a PDF mantiene la qualità originale dell'immagine ottimizzando le dimensioni del file per il formato PDF. Il PDF convertito preserverà la risoluzione, i colori e i dettagli delle tue immagini PNG, garantendo un output di qualità professionale adatto per la stampa e la distribuzione digitale."
+            },
+            "question9": {
+                "title": "Quanto tempo ci vuole per convertire PNG in PDF?",
+                "text": "Il processo di conversione è quasi istantaneo. Una volta caricati i tuoi file PNG, il nostro convertitore avanzato li elaborerà e ti fornirà il documento PDF convertito in pochi secondi. I tempi di elaborazione possono variare leggermente per file più grandi o conversioni batch."
+            },
+            "question10": {
+                "title": "Posso personalizzare l'output PDF?",
+                "text": "Sì, il nostro convertitore da PNG a PDF offre opzioni di personalizzazione di base. Puoi regolare l'orientamento della pagina (verticale o orizzontale), impostare le dimensioni dei margini e scegliere tra diversi formati di pagina (A4, Lettera, ecc.) prima di convertire le tue immagini PNG in formato PDF."
+            },
+            "question11": {
+                "title": "Offrite un'API per la conversione da PNG a PDF?",
+                "text": "Attualmente non offriamo un'API pubblica per la conversione da PNG a PDF, ma stiamo lavorando allo sviluppo di questa funzionalità per aziende e sviluppatori che necessitano di capacità di conversione automatizzate."
+            }
+        }
+    },
+    "howto": {
+        "title": "Come Convertire PNG in PDF Usando il Nostro Strumento Online",
+        "description": "Segui questa semplice guida per convertire le tue immagini PNG in formato PDF. Le nostre istruzioni dettagliate funzionano sia su dispositivi mobili che su computer desktop.",
+        "steps": {
+            "step1": {
+                "title": "Apri il convertitore da PNG a PDF",
+                "text": "Accedi al nostro convertitore da PNG a PDF facendo clic sul pulsante 'Converti in PDF' in cima alla pagina."
+            },
+            "step2": {
+                "title": "Seleziona i tuoi file PNG",
+                "text": "Fai clic sul pulsante 'Scegli File' e seleziona le immagini PNG che desideri convertire in PDF. Puoi selezionare più file per la conversione batch o per combinarli in un unico PDF."
+            },
+            "step3": {
+                "title": "Organizza i tuoi file PNG",
+                "text": "Per più file PNG, organizzali nell'ordine desiderato per il tuo documento PDF. Puoi trascinare e rilasciare per riordinare le pagine o rimuovere i file che non vuoi includere."
+            },
+            "step4": {
+                "title": "Avvia il processo di conversione",
+                "text": "Fai clic sul pulsante 'Converti in PDF' per avviare il processo di conversione da PNG a PDF. Il nostro strumento elaborerà ogni immagine mantenendo la migliore qualità possibile nel documento PDF finale."
+            },
+            "step5": {
+                "title": "Scarica il tuo PDF",
+                "text": "Una volta completata la conversione, fai clic sul pulsante 'Scarica' per salvare il tuo nuovo documento PDF. Puoi visualizzare in anteprima il PDF prima di scaricarlo per assicurarti che tutto sia perfetto."
+            }
+        }
+    },
+    "features": {
+        "title": "Caratteristiche Principali del Nostro Convertitore da PNG a PDF",
+        "description": "Trasforma le tue immagini PNG in documenti PDF professionali con le nostre potenti funzionalità",
+        "features": {
+            "feature1": {
+                "title": "Creazione PDF Multipagina",
+                "description": "Combina più immagini PNG in un unico documento PDF professionale con ordine e layout delle pagine personalizzabili."
+            },
+            "feature2": {
+                "title": "Elaborazione Fulminea",
+                "description": "Conversione istantanea da PNG a PDF con server avanzati per la creazione di documenti rapida ed efficiente."
+            },
+            "feature3": {
+                "title": "100% Sicuro e Protetto",
+                "description": "Nessuna registrazione richiesta, nessun file memorizzato e completamente gratuito. La tua privacy e sicurezza sono le nostre massime priorità."
+            },
+            "feature4": {
+                "title": "Supporto Multipiattaforma",
+                "description": "Converti PNG in PDF su qualsiasi dispositivo o browser - nessuna installazione di software necessaria per una conversione senza interruzioni."
+            },
+            "feature5": {
+                "title": "Preservazione della Qualità",
+                "description": "Mantieni la qualità dell'immagine originale durante la conversione da PNG a PDF, garantendo risultati professionali."
+            },
+            "feature6": {
+                "title": "Supporto File Generoso",
+                "description": "Supporto per più file PNG fino a 100 MB di dimensione totale di caricamento, perfetto per creare documenti PDF completi."
+            }
+        }
+    },
+    "footer": {
+        "about": "Converti PNG in PDF istantaneamente utilizzando il nostro convertitore online gratuito.",
+        "tools": "Strumenti per Documenti",
+        "resources": "Risorse",
+        "tos": "Condizioni di Servizio",
+        "privacy": "Informativa sulla Privacy",
+        "copyright": "© PNG TO PDF - Converti PNG in PDF con facilità",
+        "copyright-suffix": "Tutti i diritti riservati"
+    },
+    "input": {
+        "placeholder": "Trascina i file PNG qui o fai clic per caricarli",
+        "button": "Carica File",
+        "clear-button": "Cancella Coda",
+        "download-button": "Scarica PDF",
+        "download-all-button": "Scarica Tutti i PDF"
+    }
+}

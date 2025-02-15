@@ -1,0 +1,134 @@
+{
+    "meta-title": "PNG转PDF - 在线免费将PNG转换为PDF",
+    "meta-description": "免费在线将PNG转换为PDF。将单个或多个PNG图像立即转换为高质量的PDF文档。100%安全快速。无需注册。",
+    "h1": "PNG转PDF转换器",
+    "description": "免费在线将PNG转换为PDF。使用我们安全快速的转换器将您的PNG图像转换为专业的PDF文档。无需注册。",
+    "cta": {
+      "title": "立即将PNG转换为PDF",
+      "description": "一种快速、免费和安全的方式，将您的PNG图像转换为专业的PDF文档。非常适合创建文档、报告和演示文稿。",
+      "button": "开始转换",
+      "quote": "您的隐私很重要 - 我们绝不存储您的文件。"
+    },
+    "faq": {
+      "title": "关于PNG转PDF转换器的常见问题解答",
+      "description": "以下是一些关于我们的PNG转PDF转换服务最常见的问题。",
+      "questions": {
+        "question1": {
+          "title": "为什么将PNG转换为PDF？",
+          "text": "将PNG转换为PDF具有多种优势。PDF具有通用兼容性，保持图像质量，非常适合专业文档。当您需要将多个图像组合成一个文档、创建可打印材料或以广泛接受的商业和学术目的的格式共享图像时，PNG转PDF转换尤其有用。"
+        },
+        "question2": {
+          "title": "PNG转PDF转换器如何工作？",
+          "text": "我们的PNG转PDF转换器使用先进的算法将您的PNG图像转换为高质量的PDF文档。只需上传您的PNG文件，我们的转换器就会立即处理它们，在为PDF格式优化输出的同时保持原始图像质量。您可以转换单个图像或将多个PNG组合成一个PDF文档。"
+        },
+        "question3": {
+          "title": "这个PNG转PDF转换器可以完全免费使用吗？",
+          "text": "是的，我们的PNG转PDF转换器是100%免费的，没有任何隐藏费用。免费转换无限数量的PNG图像为PDF格式，无需注册。我们不会施加任何每日限制或要求高级订阅进行基本转换，这使其非常适合个人和专业使用。"
+        },
+        "question4": {
+          "title": "PNG转PDF转换的最大文件大小是多少？",
+          "text": "虽然对单个文件大小没有限制，但总批量上传大小限制为100MB。这允许您同时将多个PNG文件转换为PDF格式，同时确保最终文档的最佳性能和质量。"
+        },
+        "question5": {
+          "title": "使用您的PNG转PDF转换器安全吗？",
+          "text": "当然！我们的PNG转PDF转换器优先考虑您的隐私和安全。我们使用安全的HTTPS连接，并且不存储任何上传的文件。一旦您下载了转换后的PDF文件并离开了网站，您的所有数据将从我们的服务器上自动删除，确保完全保密。"
+        },
+        "question6": {
+          "title": "我可以将多个PNG文件合并成一个PDF吗？",
+          "text": "是的，我们的转换器支持批量处理，允许您将多个PNG文件合并成一个PDF文档。您还可以在转换前调整页面顺序、方向和布局。此功能对于创建多页文档、演示文稿或作品集特别有用。"
+        },
+        "question7": {
+          "title": "哪些设备和浏览器可以使用您的PNG转PDF转换器？",
+          "text": "我们的PNG转PDF转换器可以在所有现代设备和浏览器上无缝运行。无论您使用的是iOS、Android、Windows还是Mac，我们的工具都与Chrome、Safari、Firefox和Edge兼容。无需安装任何软件 - 只需访问我们的网站并开始将您的PNG图像转换为PDF格式。"
+        },
+        "question8": {
+          "title": "PDF质量与原始PNG相比如何？",
+          "text": "我们的PNG转PDF转换器在优化PDF格式文件大小的同时保持原始图像质量。转换后的PDF将保留PNG图像的分辨率、颜色和细节，确保适合打印和数字发行的专业质量输出。"
+        },
+        "question9": {
+          "title": "PNG转PDF转换需要多长时间？",
+          "text": "转换过程几乎是瞬间的。一旦您上传了PNG文件，我们先进的转换器将处理它们，并在几秒钟内为您提供转换后的PDF文档。处理时间可能会因较大文件或批量转换而略有不同。"
+        },
+        "question10": {
+          "title": "我可以自定义PDF输出吗？",
+          "text": "是的，我们的PNG转PDF转换器提供基本的自定义选项。在将PNG图像转换为PDF格式之前，您可以调整页面方向（纵向或横向）、设置边距大小以及在不同的页面大小（A4、Letter等）之间进行选择。"
+        },
+        "question11": {
+          "title": "你们为PNG转PDF转换提供API吗？",
+          "text": "虽然我们目前不提供用于PNG转PDF转换的公共API，但我们正在努力为需要自动化转换功能的企业和开发人员开发此功能。"
+        }
+      }
+    },
+    "howto": {
+      "title": "如何使用我们的在线工具将PNG转换为PDF",
+      "description": "按照此简单指南将您的PNG图像转换为PDF格式。我们的分步说明适用于移动设备和台式计算机。",
+      "steps": {
+        "step1": {
+          "title": "打开PNG转PDF转换器",
+          "text": "通过单击页面顶部的“转换为PDF”按钮访问我们的PNG转PDF转换器。"
+        },
+        "step2": {
+          "title": "选择您的PNG文件",
+          "text": "单击“选择文件”按钮，然后选择您要转换为PDF的PNG图像。您可以选择多个文件进行批量转换或合并为一个PDF。"
+        },
+        "step3": {
+          "title": "排列您的PNG文件",
+          "text": "对于多个PNG文件，请按照您PDF文档所需的顺序排列它们。您可以拖放以重新排序页面或删除您不想包含的文件。"
+        },
+        "step4": {
+          "title": "开始转换过程",
+          "text": "单击“转换为PDF”按钮开始PNG转PDF转换过程。我们的工具将处理每个图像，同时在最终的PDF文档中保持最佳质量。"
+        },
+        "step5": {
+          "title": "下载您的PDF",
+          "text": "转换完成后，单击“下载”按钮保存您的新PDF文档。您可以在下载前预览PDF，以确保一切看起来完美。"
+        }
+      }
+    },
+    "features": {
+      "title": "我们的PNG转PDF转换器的主要功能",
+      "description": "使用我们强大的功能将您的PNG图像转换为专业的PDF文档",
+      "features": {
+        "feature1": {
+          "title": "多页PDF创建",
+          "description": "将多个PNG图像合并到一个专业的PDF文档中，并可自定义页面顺序和布局。"
+        },
+        "feature2": {
+          "title": "闪电般快速的处理",
+          "description": "由高级服务器驱动的即时PNG到PDF转换，可实现快速高效的文档创建。"
+        },
+        "feature3": {
+          "title": "100%安全可靠",
+          "description": "无需注册，不存储文件，完全免费使用。您的隐私和安全是我们的首要任务。"
+        },
+        "feature4": {
+          "title": "跨平台支持",
+          "description": "在任何设备或浏览器上将PNG转换为PDF - 无需安装软件即可进行无缝转换。"
+        },
+        "feature5": {
+          "title": "质量保留",
+          "description": "将PNG转换为PDF格式时保持原始图像质量，确保获得专业效果。"
+        },
+        "feature6": {
+          "title": "慷慨的文件支持",
+          "description": "支持多个PNG文件，总上传大小高达100MB，非常适合创建全面的PDF文档。"
+        }
+      }
+    },
+    "footer": {
+      "about": "使用我们的免费在线转换器立即将PNG转换为PDF。",
+      "tools": "文档工具",
+      "resources": "资源",
+      "tos": "服务条款",
+      "privacy": "隐私政策",
+      "copyright": "© PNG转PDF - 轻松将PNG转换为PDF",
+      "copyright-suffix": "版权所有。"
+    },
+    "input": {
+      "placeholder": "将PNG文件拖放到此处或单击以上传",
+      "button": "上传文件",
+      "clear-button": "清除队列",
+      "download-button": "下载PDF",
+      "download-all-button": "下载所有PDF"
+    }
+  }

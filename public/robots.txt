@@ -1,0 +1,8 @@
+# *
+User-agent: *
+Allow: *
+Disallow: /_next/
+# Host
+Host: https://png2pdf.net/
+# Sitemaps
+Sitemap: https://png2pdf.net/sitemap.xml
