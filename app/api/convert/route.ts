@@ -6,8 +6,6 @@ const API_KEY = process.env.API_KEY;
 
 export async function POST(request: NextRequest) {
     // TODO: We need to limit the size of the file
-    console.log('Converting PNG to PDF');
-    console.log('PYTHON_API_URL:', PYTHON_API_URL);
     try {
         const formData = await request.formData();
         const file = formData.get('file') as File;
