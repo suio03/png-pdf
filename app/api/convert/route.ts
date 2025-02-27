@@ -32,9 +32,6 @@ export async function POST(request: NextRequest) {
                 'User-Agent': 'png2pdf-frontend'
             },
         })
-        const data = await response.json();
-        console.log('Response:', data);
-        console.log('Response:', response.status);
         if (response.status === 403) {
             return NextResponse.json(
                 { 
